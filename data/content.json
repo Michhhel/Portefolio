@@ -1,0 +1,999 @@
+{
+ "cfg": {
+  "email": "michel.yao@ensea.edu.ci",
+  "cv": "",
+  "portrait": "assets/img/portrait-880.webp",
+  "linkedin": "https://www.linkedin.com/in/michel-yao-b81962269/",
+  "github": "https://github.com/Michhhel",
+  "chk": [
+   "va.p",
+   "vb.p"
+  ],
+  "avatar": "assets/img/avatar.webp"
+ },
+ "lens": {
+  "dev": {
+   "first": [
+    "guinee-bissau",
+    "aflatoun",
+    "san-pedro",
+    "plateforme",
+    "pauvrete-ci",
+    "emploi-ci"
+   ],
+   "sub": {
+    "fr": "Statistique, évaluation et enquêtes de terrain au service des projets de développement. Je veux mettre cette rigueur au service des équipes qui bâtissent les infrastructures de demain, en français et en anglais.",
+    "en": "Statistics, evaluation and field surveys in service of development projects. I want to bring this rigor to the teams building tomorrow's infrastructure, in French and English."
+   }
+  },
+  "conseil": {
+   "first": [
+    "mayelia",
+    "omci",
+    "plateforme",
+    "aflatoun",
+    "guinee-bissau"
+   ],
+   "sub": {
+    "fr": "Modélisation, analyse financière et contrôle des risques : je transforme des données complexes en recommandations claires, et je cherche toujours à améliorer plutôt qu'à critiquer.",
+    "en": "Modeling, financial analysis and risk control: I turn complex data into clear recommendations, and I always look to improve rather than criticize."
+   }
+  }
+ },
+ "fr": {
+  "ui": {
+   "title": "Michel YAO — Statisticien économiste",
+   "desc": "Michel YAO, élève ingénieur statisticien économiste à l'ENSEA d'Abidjan : statistique, économie et data au service du développement.",
+   "nav.vision": "Vision",
+   "nav.atouts": "Atouts",
+   "nav.parcours": "Parcours",
+   "nav.projets": "Projets",
+   "nav.competences": "Compétences",
+   "nav.engagements": "Engagements",
+   "nav.contact": "Contact",
+   "h.eye": "Élève ingénieur statisticien économiste, ENSEA Abidjan",
+   "h.tag": "Du bruit au signal.",
+   "h.sub": "Passionné de mathématiques, j'y vois l'outil le plus puissant pour faire avancer les secteurs financier et infrastructurel de nos États, dans un développement équilibré et durable.",
+   "h.c1": "Voir mes projets",
+   "h.c2": "Me contacter",
+   "h.hint": "Passez la souris sur le bruit : il s'ordonne.",
+   "h.hintm": "Faites défiler : le bruit devient signal.",
+   "h.s1": "cycles ENSEA, tous en mention Bien",
+   "h.s2": "FCFA de chiffre d'affaires à EJS, mandat DRH",
+   "h.s3": "certifications MITx",
+   "h.alt": "Portrait de Michel YAO",
+   "va.h": "Un continent au potentiel immense, encore mal utilisé.",
+   "va.q": "Nos États ont un fort potentiel, encore très mal utilisé. Les mathématiques sont un levier puissant pour le libérer : modéliser, décider, financer et bâtir.",
+   "va.p": "Côte d'Ivoire, Abidjan : c'est d'ici que je regarde les chiffres.",
+   "vb.h": "Ancré en Afrique, ouvert sur le monde.",
+   "vb.p": "Financer, bâtir, mesurer : ces défis se jouent partout. Je veux apporter ma rigueur aux institutions et aux équipes internationales qui les relèvent, en français comme en anglais.",
+   "vb.p2": "Mon cœur bat pour le terrain, au contact réel des populations et des entreprises. Mon entourage me taquine en disant que je trouve des problèmes même quand il n'y en a pas : c'est pour mieux les améliorer, jamais pour critiquer.",
+   "at.h": "Ce que j'apporte",
+   "at.p": "Quatre forces, comme quatre groupes qui émergent des données.",
+   "tl.h": "Huit ans à transformer des données en décisions",
+   "tl.p": "De l'ENSEA au terrain, des cabinets aux institutions : la courbe se trace au fil du parcours.",
+   "pj.h": "Des problèmes réels, des solutions chiffrées",
+   "pj.p": "Évaluation, pauvreté, finance, risques et outils de données. Chaque projet ouvre sa propre page.",
+   "pj.more": "Ouvrir le projet",
+   "pj.soon": "Détails à venir",
+   "sk.h": "Une boîte à outils reliée au terrain",
+   "sk.p": "Chaque outil est relié à sa famille. Survolez-en un pour voir les projets où il a servi.",
+   "sk.hint": "Survolez ou touchez un outil.",
+   "sk.used": "Utilisé dans",
+   "sk.nouse": "Pas encore de projet publié avec cet outil.",
+   "ld.h": "Au-delà des chiffres",
+   "ld.p": "Diriger, accompagner, transmettre.",
+   "ct.h": "Construisons quelque chose d'utile.",
+   "ct.p": "Une mission, un projet, une question : écrivez-moi, je réponds avec plaisir.",
+   "ct.m": "M'écrire",
+   "ct.cv": "Télécharger mon CV",
+   "foot": "© 2026 Michel YAO · Abidjan",
+   "dt.back": "Retour aux projets",
+   "dt.ctx": "Contexte",
+   "dt.role": "Mon rôle",
+   "dt.pts": "Ce que j'ai fait",
+   "dt.st": "Démarche",
+   "dt.rs": "Chiffres clés",
+   "dt.ls": "Enseignement",
+   "dt.tools": "Outils",
+   "dt.links": "Liens",
+   "dt.img": "Visuels",
+   "dt.prev": "Projet précédent",
+   "dt.next": "Projet suivant",
+   "dt.soon": "Les détails complets (démarche, résultats, livrables, dépôt de code) seront ajoutés prochainement.",
+   "lk.code": "Code source",
+   "lk.pdf": "Rapport (PDF)",
+   "lk.demo": "Démo en ligne",
+   "hud": "signal",
+   "theme": "Changer de thème",
+   "menu": "Menu",
+   "skip": "Aller au contenu",
+   "ld.int": "Hors des chiffres : basket, lecture, piano, chant et cuisine."
+  },
+  "at": [
+   {
+    "n": "8 ans",
+    "t": "De rigueur quantitative",
+    "d": "Statistique, économie et data science à l'ENSEA, avec la mention Bien à chaque cycle."
+   },
+   {
+    "n": "Δ",
+    "t": "Un esprit d'amélioration",
+    "d": "Je cherche les problèmes non pour critiquer, mais pour améliorer : questionner ses méthodes avec lucidité et humilité."
+   },
+   {
+    "n": "200+",
+    "t": "Du terrain au leadership",
+    "d": "Chef d'une équipe de 3 enquêteurs à San Pedro, DRH d'une junior-entreprise de 200+ actionnaires, 50+ étudiants accompagnés."
+   },
+   {
+    "n": "FR/EN",
+    "t": "Multi-projets, bilingue",
+    "d": "Missions de conseil, stages et enquêtes menés de front, en français et en anglais (formation MITx suivie en anglais)."
+   }
+  ],
+  "tl": [
+   {
+    "x": 2019.7,
+    "w": "2019 – 2021",
+    "o": "ENSEA Abidjan",
+    "t": "Agent Technique de la Statistique (AT), puis Adjoint Technique de la Statistique (AD)",
+    "d": "Mention Bien à chaque cycle, après un baccalauréat série C (Lycée Moderne Yopougon Andokoi). Stage d'août 2020 : test puis déploiement du nouvel outil d'archivage électronique de l'école."
+   },
+   {
+    "x": 2021.7,
+    "w": "2021 – 2024",
+    "o": "ENSEA Abidjan",
+    "t": "Analyste Statisticien (AS), mention Bien",
+    "d": "Niveau licence. Mémoire de fin de cycle qui m'a confronté à l'intégralité de la démarche statistique."
+   },
+   {
+    "x": 2022.8,
+    "w": "2022 – 2023",
+    "o": "ENSEA Junior Services (EJS)",
+    "t": "Consultant statisticien et Directeur des Ressources Humaines",
+    "d": "Évaluations baseline/endline pour Technopolis Group et Aflatoun International, enquêtes pour Atlantique Assurance et la LONACI. DRH d'une junior-entreprise de 200+ actionnaires."
+   },
+   {
+    "x": 2023.6,
+    "w": "Juil. – Août 2023",
+    "o": "Ministère de l'Agriculture · ENSEA",
+    "t": "Data analyst et enquêteur",
+    "d": "Pipeline de traitement du Recensement des exploitants et exploitations agricoles 2016 (REEA) au MEMINADER ; enquête ENSEA sur les conditions de vie des jeunes à Daloa."
+   },
+   {
+    "x": 2024.4,
+    "w": "Mai – Août 2024",
+    "o": "CGECI (confédération patronale)",
+    "t": "Stagiaire statisticien, étude de profilage et modélisation",
+    "d": "Enquête menée de bout en bout, de la conception à l'exploitation et à la publication, avec des analyses statistiques avancées."
+   },
+   {
+    "x": 2024.7,
+    "w": "Depuis sept. 2024",
+    "o": "ENSEA Abidjan",
+    "t": "Ingénieur Statisticien Économiste (ISE)",
+    "d": "Niveau master, mention Bien à ce jour, diplôme prévu en 2027. Économétrie des variables qualitatives, statistique non paramétrique, économie publique, démographie. Certifications MITx en 2026."
+   },
+   {
+    "x": 2025.7,
+    "w": "Sept. 2025 – Mars 2026",
+    "o": "Mayelia Participation",
+    "t": "Stagiaire puis consultant, finance, budget et actuariat",
+    "d": "Outil de budget par programmes formalisé pour tout le groupe, puis appui à l'analyse financière et tarification d'un produit d'assurance remorquage."
+   },
+   {
+    "x": 2026.6,
+    "w": "Août – Sept. 2026",
+    "o": "Orange Money Côte d'Ivoire · ENSEA",
+    "t": "Stagiaire Fraude & Assurance revenu, puis chef d'équipe d'enquête",
+    "d": "Recette anti-fraude et boîte à outils Python de conversion de fichiers de transactions ; puis chef d'une équipe de 3 enquêteurs à San Pedro."
+   },
+   {
+    "x": 2026.8,
+    "w": "Depuis sept. 2026",
+    "o": "ENSEA Junior Services (EJS)",
+    "t": "Consultant, Marketing & Communication",
+    "d": "Refonte des maquettes de toutes les affiches des formations et publications officielles (10+ affiches produites)."
+   }
+  ],
+  "pj": [
+   {
+    "id": "guinee-bissau",
+    "c": "Économétrie · Pauvreté",
+    "t": "Pauvreté en Guinée-Bissau (EHCVM 2021/22)",
+    "d": "Étude de groupe sur le recoupement entre pauvreté monétaire et matérielle : indices FGT, déterminants (logit/probit), comparaison 2018-2021.",
+    "m": "FGT · logit/probit · 2018→2021",
+    "k": [
+     "EHCVM",
+     "FGT",
+     "Logit/Probit"
+    ],
+    "org": "Projet académique de groupe · ENSEA",
+    "ctx": "Étude du recoupement entre pauvreté monétaire et pauvreté matérielle à partir des microdonnées de l'enquête harmonisée EHCVM 2021/22 de Guinée-Bissau.",
+    "role": "J'ai rédigé les sections sur les déterminants économétriques et sur les leviers de politique.",
+    "pts": [
+     "Indices de pauvreté FGT, monétaire et matérielle",
+     "Déterminants de la pauvreté par modèles logit et probit",
+     "Comparaison 2018-2021"
+    ],
+    "kf": [
+     [
+      "2021/22",
+      "enquête EHCVM"
+     ],
+     [
+      "2018→2021",
+      "période comparée"
+     ]
+    ],
+    "viz": "dist",
+    "tools": [],
+    "det": 0
+   },
+   {
+    "id": "aflatoun",
+    "c": "Évaluation · Impact",
+    "t": "Évaluations baseline/endline : Aflateen+ et Cocoa for Good",
+    "d": "Pour Technopolis Group et Aflatoun International : éducation financière et compétences de vie avec une lecture genre, en Côte d'Ivoire.",
+    "m": "2 programmes évalués",
+    "k": [
+     "Évaluation d'impact",
+     "Genre",
+     "Enquêtes"
+    ],
+    "w": "2022 – 2023",
+    "org": "EJS (junior-entreprise ENSEA) · Technopolis Group, Aflatoun International",
+    "ctx": "Évaluations de début et de fin de programme pour Aflateen+ (compétences de vie et éducation financière, avec une lecture genre, en Côte d'Ivoire) et Cocoa for Good / AflaYouth.",
+    "role": "Consultant statisticien à ENSEA Junior Services (nov. 2022 – sept. 2023).",
+    "pts": [
+     "Évaluations baseline et endline pour Technopolis Group et Aflatoun International",
+     "Enquête de satisfaction des prestataires pour Atlantique Assurance",
+     "Sondage d'opinion pour la LONACI"
+    ],
+    "kf": [
+     [
+      "2",
+      "programmes évalués"
+     ],
+     [
+      "2",
+      "autres missions : Atlantique Assurance, LONACI"
+     ]
+    ],
+    "viz": "ba",
+    "tools": [],
+    "det": 0
+   },
+   {
+    "id": "mayelia",
+    "c": "Finance · Actuariat",
+    "t": "Budget par programmes et tarification d'assurance",
+    "d": "Chez Mayelia Participation : un outil de budget par programmes pour tout le groupe, puis la tarification d'un produit d'assurance remorquage.",
+    "m": "Budget groupe · tarification produit",
+    "k": [
+     "Budget par programmes",
+     "Tarification actuarielle",
+     "Analyse financière"
+    ],
+    "w": "Sept. 2025 – Mars 2026",
+    "org": "Mayelia Participation",
+    "ctx": "Appuyer le pilotage financier du groupe, puis préparer le lancement d'un produit d'assurance.",
+    "role": "Stagiaire en analyse financière et budget (sept.-oct. 2025), puis consultant en statistique et tarification actuarielle (déc. 2025 – mars 2026).",
+    "pts": [
+     "Mise en place et formalisation complète de l'outil de budget par programmes de tout le groupe",
+     "Appui à l'analyse financière de l'entreprise",
+     "Tarification du produit d'assurance remorquage que l'entreprise prévoyait de lancer"
+    ],
+    "kf": [
+     [
+      "1",
+      "outil de budget pour tout le groupe"
+     ],
+     [
+      "1",
+      "produit d'assurance tarifé"
+     ]
+    ],
+    "viz": "risk",
+    "tools": [],
+    "det": 0
+   },
+   {
+    "id": "omci",
+    "c": "Risques · Fraude",
+    "t": "Orange Money : recette anti-fraude et boîte à outils ETL",
+    "d": "Un cahier de recette orienté fraude pour l'application OM Business, et une boîte à outils Python qui convertit des fichiers de transactions de plusieurs millions de lignes.",
+    "m": "6 profils utilisateurs · millions de lignes par jour",
+    "k": [
+     "Python",
+     "ETL",
+     "UAT"
+    ],
+    "w": "Août – Sept. 2026",
+    "org": "Orange Money Côte d'Ivoire · Fraude & Assurance revenu",
+    "ctx": "Au sein du service Risques et Contrôle interne : tester une application marchande sous l'angle de la fraude, et faire tourner les contrôles anti-fraude existants sur un nouveau format de fichiers.",
+    "role": "Stagiaire, Fraude & Assurance revenu (août – sept. 2026).",
+    "pts": [
+     "Cahier de recette orienté fraude pour l'application OM Business : scénarios standard, cas limites et fraude, sur six profils d'utilisateurs",
+     "Boîte à outils Python : profilage de colonnes, appariement de schémas, dictionnaire de correspondance, ETL vectorisé",
+     "Conversion de fichiers quotidiens de plusieurs millions de lignes entre deux formats de plateformes, sans modifier les contrôles existants"
+    ],
+    "kf": [
+     [
+      "6",
+      "profils utilisateurs testés"
+     ],
+     [
+      "Millions",
+      "de lignes converties par jour"
+     ]
+    ],
+    "nt": "Seuls les éléments partageables sont présentés ici, pour des raisons de confidentialité.",
+    "viz": "rows",
+    "tools": [
+     "Python"
+    ],
+    "det": 0
+   },
+   {
+    "id": "plateforme",
+    "c": "Plateforme de données",
+    "t": "Observatoire sectoriel des ventes automobiles",
+    "d": "Une plateforme web qui remplace un fichier Excel annuel par une collecte mensuelle des ventes : stockage sécurisé, indicateurs, comparaisons et alertes, avec une confidentialité stricte entre concurrents.",
+    "m": "Collecte mensuelle · pilote janv. 2027",
+    "k": [
+     "Django",
+     "PostgreSQL",
+     "Plateforme de données"
+    ],
+    "w": "Depuis nov. 2026",
+    "org": "Consultant indépendant · groupement professionnel du secteur automobile (Côte d'Ivoire)",
+    "ctx": "Un groupement de distributeurs automobiles suivait les ventes de ses membres dans un fichier Excel annuel. L'objectif : une collecte mensuelle fiable, des restitutions utiles à chaque membre, et une confidentialité stricte entre concurrents.",
+    "role": "Développeur, statisticien et consultant du projet.",
+    "pts": [
+     "Socle de la plateforme : base de données, sécurité, import des fichiers Excel, historique",
+     "Collecte mensuelle et restitution : indicateurs, comparaisons, alertes",
+     "Préparation du pilote, prévu en janvier 2027"
+    ],
+    "kf": [
+     [
+      "Mensuelle",
+      "collecte, au lieu d'annuelle"
+     ],
+     [
+      "Janv. 2027",
+      "début du pilote"
+     ]
+    ],
+    "viz": "dash",
+    "tools": [
+     "Django",
+     "PostgreSQL"
+    ],
+    "det": 0,
+    "chk": 1
+   },
+   {
+    "id": "san-pedro",
+    "c": "Terrain · Enquête",
+    "t": "Enquête ENSEA sur l'investissement éducatif (San Pedro)",
+    "d": "Chef d'une équipe de 3 enquêteurs ; contribution au questionnaire et rédaction du manuel enquêteur du module « Perceptions et aspirations éducatives ».",
+    "m": "32 ménages · 15 questions",
+    "k": [
+     "Enquête ménages",
+     "Manuel enquêteur",
+     "Encadrement"
+    ],
+    "w": "Sept. 2026",
+    "org": "ENSEA · enquête académique",
+    "ctx": "Enquête académique de l'ENSEA sur l'investissement éducatif des ménages à San Pedro.",
+    "role": "Chef d'équipe sur le terrain.",
+    "pts": [
+     "Encadrement de 3 enquêteurs (32 ménages enquêtés)",
+     "Contribution à la conception du questionnaire",
+     "Rédaction du manuel enquêteur du module « Perceptions et aspirations éducatives » (15 questions)"
+    ],
+    "kf": [
+     [
+      "32",
+      "ménages enquêtés"
+     ],
+     [
+      "3",
+      "enquêteurs encadrés"
+     ],
+     [
+      "15",
+      "questions dans le module"
+     ]
+    ],
+    "viz": "survey",
+    "tools": [],
+    "det": 0
+   },
+   {
+    "id": "pauvrete-ci",
+    "c": "Économétrie · Pauvreté",
+    "t": "Pauvreté des ménages en Côte d'Ivoire",
+    "d": "Analyse de la pauvreté des ménages ivoiriens avec SPSS, Stata et Excel.",
+    "m": "",
+    "k": [
+     "SPSS",
+     "Stata",
+     "Excel"
+    ],
+    "w": "Juil. 2023",
+    "org": "Projet académique · ENSEA",
+    "ctx": "Analyse de la pauvreté des ménages en Côte d'Ivoire, menée avec SPSS, Stata et Excel.",
+    "role": "",
+    "pts": [],
+    "kf": [],
+    "viz": "bars",
+    "tools": [
+     "SPSS",
+     "Stata",
+     "Excel"
+    ],
+    "det": 0
+   },
+   {
+    "id": "emploi-ci",
+    "c": "Data · Emploi",
+    "t": "Marché du travail en Côte d'Ivoire",
+    "d": "Analyse des tendances du marché du travail ivoirien avec Python, Power BI et Excel.",
+    "m": "",
+    "k": [
+     "Python",
+     "Power BI",
+     "Excel"
+    ],
+    "w": "Janv. 2025",
+    "org": "Projet académique · ENSEA",
+    "ctx": "Analyse des tendances du marché du travail en Côte d'Ivoire, avec Python, Power BI et Excel.",
+    "role": "",
+    "pts": [],
+    "kf": [],
+    "viz": "line",
+    "tools": [
+     "Python",
+     "Power BI",
+     "Excel"
+    ],
+    "det": 0
+   },
+   {
+    "id": "ml-ia",
+    "c": "Machine learning & IA",
+    "t": "Scoring de crédit, assistant RAG, EcoSort-BOX",
+    "d": "Prédiction du risque de défaut, assistant conversationnel sur un LLM avec RAG, et application web de tri des déchets.",
+    "m": "",
+    "k": [
+     "Machine learning",
+     "LLM · RAG",
+     "Django",
+     "Docker"
+    ],
+    "org": "Projets académiques · ENSEA",
+    "ctx": "Trois applications du machine learning et des LLM.",
+    "role": "",
+    "pts": [
+     "Scoring de crédit : prédiction du risque de défaut (bon ou mauvais emprunteur)",
+     "Assistant conversationnel sur un LLM existant, avec génération augmentée par la recherche (RAG)",
+     "EcoSort-BOX : application web de tri des déchets (Django, Docker)"
+    ],
+    "kf": [
+     [
+      "3",
+      "projets réalisés"
+     ]
+    ],
+    "viz": "nn",
+    "tools": [
+     "Django",
+     "Docker"
+    ],
+    "det": 0
+   }
+  ],
+  "sk": [
+   {
+    "t": "Statistique & économétrie",
+    "k": [
+     "Stata",
+     "R",
+     "Python",
+     "SPSS"
+    ]
+   },
+   {
+    "t": "Collecte & BI",
+    "k": [
+     "Survey Solutions",
+     "KoboToolbox",
+     "CSPro",
+     "Power BI",
+     "Tableau",
+     "Excel"
+    ]
+   },
+   {
+    "t": "Programmation",
+    "k": [
+     "Python",
+     "SQL",
+     "Excel VBA",
+     "HTML/CSS/JS",
+     "Django",
+     "PostgreSQL",
+     "Docker",
+     "LaTeX"
+    ]
+   },
+   {
+    "t": "Design",
+    "k": [
+     "Photoshop",
+     "Illustrator"
+    ]
+   }
+  ],
+  "sx": [
+   {
+    "t": "Langues",
+    "k": [
+     "Français, langue maternelle",
+     "Anglais, niveau professionnel"
+    ]
+   },
+   {
+    "t": "Certifications MITx (2026)",
+    "k": [
+     "Data Analysis for Social Scientists",
+     "Designing and Running Randomized Evaluations"
+    ]
+   }
+  ],
+  "ld": [
+   {
+    "n": "19 M",
+    "t": "FCFA de chiffre d'affaires",
+    "d": "Réalisés par ENSEA Junior Services pendant mon mandat de Directeur des Ressources Humaines (2022-2023), au sein d'une junior-entreprise de 200+ actionnaires.",
+    "chk": 1
+   },
+   {
+    "n": "50+",
+    "t": "Étudiants accompagnés",
+    "d": "Directeur-adjoint de la commission solidarité de la Division des Analystes Statisticiens (2022-2023) : suivi du bien-être des étudiants."
+   },
+   {
+    "n": "10+",
+    "t": "Affiches conçues",
+    "d": "Refonte des visuels des formations et publications officielles d'EJS, avec Photoshop et Illustrator."
+   }
+  ],
+  "ph": [
+   {
+    "s": "",
+    "a": "",
+    "c": "Sur le terrain"
+   },
+   {
+    "s": "",
+    "a": "",
+    "c": "En équipe"
+   },
+   {
+    "s": "",
+    "a": "",
+    "c": "Hors des chiffres"
+   }
+  ]
+ },
+ "en": {
+  "ui": {
+   "title": "Michel YAO — Statistician-Economist",
+   "desc": "Michel YAO, statistician-economist engineering student at ENSEA Abidjan: statistics, economics and data in service of development.",
+   "nav.vision": "Vision",
+   "nav.atouts": "Strengths",
+   "nav.parcours": "Journey",
+   "nav.projets": "Projects",
+   "nav.competences": "Skills",
+   "nav.engagements": "Leadership",
+   "nav.contact": "Contact",
+   "h.eye": "Ingénieur Statisticien Économiste (ISE) student, ENSEA Abidjan",
+   "h.tag": "From noise to signal.",
+   "h.sub": "A mathematics enthusiast, I see in it the most powerful tool to advance our states' financial and infrastructure sectors, within balanced and sustainable development.",
+   "h.c1": "See my projects",
+   "h.c2": "Get in touch",
+   "h.hint": "Hover over the noise: it falls into order.",
+   "h.hintm": "Scroll: the noise becomes a signal.",
+   "h.s1": "ENSEA programs, all with Honors",
+   "h.s2": "FCFA in EJS revenue, my HR term",
+   "h.s3": "MITx certificates",
+   "h.alt": "Portrait of Michel YAO",
+   "va.h": "A continent of immense potential, still under-used.",
+   "va.q": "Our states have strong potential, still badly under-used. Mathematics is a powerful lever to unlock it: to model, decide, finance and build.",
+   "va.p": "Côte d'Ivoire, Abidjan: this is where I read the numbers from.",
+   "vb.h": "Rooted in Africa, open to the world.",
+   "vb.p": "Financing, building, measuring: these challenges play out everywhere. I want to bring my rigor to the institutions and international teams that take them on, in French and in English.",
+   "vb.p2": "My heart beats for the field, in real contact with people and businesses. Friends tease me that I find problems even when there are none: it is to improve things, never to criticize.",
+   "at.h": "What I bring",
+   "at.p": "Four strengths, like four clusters emerging from the data.",
+   "tl.h": "Eight years turning data into decisions",
+   "tl.p": "From ENSEA to the field, from firms to institutions: the curve draws itself along the journey.",
+   "pj.h": "Real problems, quantified solutions",
+   "pj.p": "Evaluation, poverty, finance, risk and data tools. Each project opens its own page.",
+   "pj.more": "Open project",
+   "pj.soon": "Details coming soon",
+   "sk.h": "A toolbox connected to the field",
+   "sk.p": "Each tool is linked to its family. Hover one to see the projects where it was used.",
+   "sk.hint": "Hover or tap a tool.",
+   "sk.used": "Used in",
+   "sk.nouse": "No published project with this tool yet.",
+   "ld.h": "Beyond the numbers",
+   "ld.p": "Leading, supporting, passing on.",
+   "ct.h": "Let's build something useful.",
+   "ct.p": "A mission, a project, a question: write to me, I'd be glad to reply.",
+   "ct.m": "Write to me",
+   "ct.cv": "Download my CV",
+   "foot": "© 2026 Michel YAO · Abidjan",
+   "dt.back": "Back to projects",
+   "dt.ctx": "Context",
+   "dt.role": "My role",
+   "dt.pts": "What I did",
+   "dt.st": "Approach",
+   "dt.rs": "Key figures",
+   "dt.ls": "Takeaway",
+   "dt.tools": "Tools",
+   "dt.links": "Links",
+   "dt.img": "Visuals",
+   "dt.prev": "Previous project",
+   "dt.next": "Next project",
+   "dt.soon": "Full details (approach, results, deliverables, code repository) will be added soon.",
+   "lk.code": "Source code",
+   "lk.pdf": "Report (PDF)",
+   "lk.demo": "Live demo",
+   "hud": "signal",
+   "theme": "Switch theme",
+   "menu": "Menu",
+   "skip": "Skip to content",
+   "ld.int": "Away from numbers: basketball, reading, piano, singing and cooking."
+  },
+  "at": [
+   {
+    "n": "8 yrs",
+    "t": "Of quantitative rigor",
+    "d": "Statistics, economics and data science at ENSEA, with Honors in every program."
+   },
+   {
+    "t": "A drive to improve",
+    "d": "I seek out problems not to criticize, but to improve: questioning one's methods with lucidity and humility."
+   },
+   {
+    "t": "From the field to leadership",
+    "d": "Led a team of 3 enumerators in San Pedro, HR Director of a junior enterprise of 200+ shareholders, 50+ students supported."
+   },
+   {
+    "t": "Multi-project, bilingual",
+    "d": "Consulting assignments, internships and surveys run side by side, in French and English (MITx coursework completed in English)."
+   }
+  ],
+  "tl": [
+   {
+    "w": "2019 – 2021",
+    "o": "ENSEA Abidjan",
+    "t": "Agent Technique de la Statistique (AT), then Adjoint Technique de la Statistique (AD)",
+    "d": "Honors in every program, after a Series C baccalauréat (Lycée Moderne Yopougon Andokoi). August 2020 internship: testing, then rolling out the school's new electronic-archiving tool."
+   },
+   {
+    "w": "2021 – 2024",
+    "o": "ENSEA Abidjan",
+    "t": "Analyste Statisticien (AS), Honors (Mention Bien)",
+    "d": "Bachelor's level. A final dissertation that took me through the full statistical process."
+   },
+   {
+    "w": "2022 – 2023",
+    "o": "ENSEA Junior Services (EJS)",
+    "t": "Statistics Consultant and Director of Human Resources",
+    "d": "Baseline/endline evaluations for Technopolis Group and Aflatoun International, surveys for Atlantique Assurance and LONACI. HR Director of a junior enterprise of 200+ shareholders."
+   },
+   {
+    "w": "Jul – Aug 2023",
+    "o": "Ministry of Agriculture · ENSEA",
+    "t": "Data analyst and enumerator",
+    "d": "Data-processing pipeline for the 2016 Census of Agricultural Holders (REEA) at the Ministry of Agriculture; ENSEA youth living-conditions survey in Daloa."
+   },
+   {
+    "w": "May – Aug 2024",
+    "o": "CGECI (national employers' confederation)",
+    "t": "Statistician Intern, profiling and modeling study",
+    "d": "End-to-end survey, from design to final use and publication, with advanced statistical analyses."
+   },
+   {
+    "w": "Since Sep 2024",
+    "o": "ENSEA Abidjan",
+    "t": "Ingénieur Statisticien Économiste (ISE)",
+    "d": "Master's level, Honors to date, graduation expected 2027. Econometrics of qualitative variables, nonparametric statistics, public economics, demography. MITx certificates in 2026."
+   },
+   {
+    "w": "Sep 2025 – Mar 2026",
+    "o": "Mayelia Participation",
+    "t": "Intern, then consultant, finance, budgeting and actuarial",
+    "d": "Program-based budgeting tool formalized for the whole group, then support to financial analysis and pricing of a vehicle-towing insurance product."
+   },
+   {
+    "w": "Aug – Sep 2026",
+    "o": "Orange Money Côte d'Ivoire · ENSEA",
+    "t": "Fraud & Revenue Assurance intern, then survey team leader",
+    "d": "Anti-fraud UAT and a Python toolkit converting transaction files; then leader of a 3-enumerator survey team in San Pedro."
+   },
+   {
+    "w": "Since Sep 2026",
+    "o": "ENSEA Junior Services (EJS)",
+    "t": "Consultant, Marketing & Communication",
+    "d": "Redesigned the drafts of all posters for training programs and official publications (10+ posters produced)."
+   }
+  ],
+  "pj": [
+   {
+    "c": "Econometrics · Poverty",
+    "t": "Poverty in Guinea-Bissau (EHCVM 2021/22)",
+    "d": "Group study on the overlap between monetary and material poverty: FGT indices, determinants (logit/probit), 2018-2021 comparison.",
+    "m": "FGT · logit/probit · 2018→2021",
+    "org": "Group academic project · ENSEA",
+    "ctx": "Study of the overlap between monetary and material poverty using microdata from Guinea-Bissau's harmonized household survey (EHCVM 2021/22).",
+    "role": "I wrote the sections on econometric determinants and policy levers.",
+    "pts": [
+     "FGT poverty indices, monetary and material",
+     "Poverty determinants with logit and probit models",
+     "2018-2021 comparison"
+    ],
+    "kf": [
+     [
+      "2021/22",
+      "EHCVM survey"
+     ],
+     [
+      "2018→2021",
+      "period compared"
+     ]
+    ]
+   },
+   {
+    "c": "Evaluation · Impact",
+    "t": "Baseline/endline evaluations: Aflateen+ and Cocoa for Good",
+    "d": "For Technopolis Group and Aflatoun International: financial education and life skills through a gender lens, in Côte d'Ivoire.",
+    "m": "2 programs evaluated",
+    "k": [
+     "Impact evaluation",
+     "Gender",
+     "Surveys"
+    ],
+    "org": "EJS (ENSEA junior enterprise) · Technopolis Group, Aflatoun International",
+    "ctx": "Start- and end-of-program evaluations for Aflateen+ (life skills and financial education through a gender lens, in Côte d'Ivoire) and Cocoa for Good / AflaYouth.",
+    "role": "Statistics consultant at ENSEA Junior Services (Nov 2022 – Sep 2023).",
+    "pts": [
+     "Baseline and endline evaluations for Technopolis Group and Aflatoun International",
+     "Provider-satisfaction survey for Atlantique Assurance",
+     "Public-opinion poll for LONACI"
+    ],
+    "kf": [
+     [
+      "2",
+      "programs evaluated"
+     ],
+     [
+      "2",
+      "other assignments: Atlantique Assurance, LONACI"
+     ]
+    ]
+   },
+   {
+    "c": "Finance · Actuarial",
+    "t": "Program budgeting and insurance pricing",
+    "d": "At Mayelia Participation: a program-based budgeting tool for the whole group, then pricing of a vehicle-towing insurance product.",
+    "m": "Group budget · product pricing",
+    "k": [
+     "Program budgeting",
+     "Actuarial pricing",
+     "Financial analysis"
+    ],
+    "w": "Sep 2025 – Mar 2026",
+    "org": "Mayelia Participation",
+    "ctx": "Supporting the group's financial management, then preparing the launch of an insurance product.",
+    "role": "Financial analysis and budgeting intern (Sep-Oct 2025), then statistics and actuarial pricing consultant (Dec 2025 – Mar 2026).",
+    "pts": [
+     "Set up and fully formalized the program-based budgeting tool for the entire group",
+     "Supported the company's financial analysis",
+     "Priced the vehicle-towing insurance product the company planned to launch"
+    ],
+    "kf": [
+     [
+      "1",
+      "budgeting tool for the whole group"
+     ],
+     [
+      "1",
+      "insurance product priced"
+     ]
+    ]
+   },
+   {
+    "c": "Risk · Fraud",
+    "t": "Orange Money: anti-fraud UAT and ETL toolkit",
+    "d": "A fraud-oriented UAT workbook for the OM Business app, and a Python toolkit converting multi-million-row transaction files.",
+    "m": "6 user profiles · millions of rows per day",
+    "w": "Aug – Sep 2026",
+    "org": "Orange Money Côte d'Ivoire · Fraud & Revenue Assurance",
+    "ctx": "Within the Risk and Internal Control team: testing a merchant app from a fraud angle, and keeping existing fraud controls running on a new file format.",
+    "role": "Intern, Fraud & Revenue Assurance (Aug – Sep 2026).",
+    "pts": [
+     "Fraud-oriented UAT workbook for the OM Business app: standard, edge-case and fraud scenarios across six user profiles",
+     "Python toolkit: column profiler, schema matcher, mapping dictionary, vectorized ETL",
+     "Conversion of multi-million-row daily files between two platform formats, leaving existing controls unchanged"
+    ],
+    "kf": [
+     [
+      "6",
+      "user profiles tested"
+     ],
+     [
+      "Millions",
+      "of rows converted daily"
+     ]
+    ],
+    "nt": "Only shareable elements are presented here, for confidentiality reasons."
+   },
+   {
+    "c": "Data platform",
+    "t": "Sector observatory for vehicle sales",
+    "d": "A web platform replacing a yearly Excel file with monthly sales collection: secure storage, indicators, benchmarks and alerts, with strict confidentiality between competitors.",
+    "m": "Monthly collection · pilot Jan 2027",
+    "k": [
+     "Django",
+     "PostgreSQL",
+     "Data platform"
+    ],
+    "w": "Since Nov 2026",
+    "org": "Independent consultant · automotive trade association (Côte d'Ivoire)",
+    "ctx": "An association of vehicle distributors tracked its members' sales in a yearly Excel file. The goal: reliable monthly collection, useful feedback for each member, and strict confidentiality between competitors.",
+    "role": "Developer, statistician and project consultant.",
+    "pts": [
+     "Platform foundation: database, security, Excel file import, history",
+     "Monthly collection and reporting: indicators, benchmarks, alerts",
+     "Preparing the pilot, planned for January 2027"
+    ],
+    "kf": [
+     [
+      "Monthly",
+      "collection, instead of yearly"
+     ],
+     [
+      "Jan 2027",
+      "pilot start"
+     ]
+    ]
+   },
+   {
+    "c": "Field · Survey",
+    "t": "ENSEA survey on educational investment (San Pedro)",
+    "d": "Led a team of 3 enumerators; contributed to the questionnaire and wrote the interviewer manual for the \"Educational Perceptions and Aspirations\" module.",
+    "m": "32 households · 15 questions",
+    "k": [
+     "Household survey",
+     "Interviewer manual",
+     "Team lead"
+    ],
+    "w": "Sep 2026",
+    "org": "ENSEA · academic survey",
+    "ctx": "ENSEA academic survey on households' educational investment in San Pedro.",
+    "role": "Field team leader.",
+    "pts": [
+     "Supervised 3 enumerators (32 households surveyed)",
+     "Contributed to questionnaire design",
+     "Wrote the interviewer manual for the \"Educational Perceptions and Aspirations\" module (15 questions)"
+    ],
+    "kf": [
+     [
+      "32",
+      "households surveyed"
+     ],
+     [
+      "3",
+      "enumerators supervised"
+     ],
+     [
+      "15",
+      "questions in the module"
+     ]
+    ]
+   },
+   {
+    "c": "Econometrics · Poverty",
+    "t": "Household poverty in Côte d'Ivoire",
+    "d": "Analysis of Ivorian household poverty with SPSS, Stata and Excel.",
+    "w": "Jul 2023",
+    "org": "Academic project · ENSEA",
+    "ctx": "Analysis of household poverty in Côte d'Ivoire, carried out with SPSS, Stata and Excel."
+   },
+   {
+    "c": "Data · Labor market",
+    "t": "Labor-market trends in Côte d'Ivoire",
+    "d": "Analysis of Ivorian labor-market trends with Python, Power BI and Excel.",
+    "w": "Jan 2025",
+    "org": "Academic project · ENSEA",
+    "ctx": "Analysis of labor-market trends in Côte d'Ivoire, with Python, Power BI and Excel."
+   },
+   {
+    "c": "Machine learning & AI",
+    "t": "Credit scoring, RAG assistant, EcoSort-BOX",
+    "d": "Default-risk prediction, a conversational assistant on an LLM with RAG, and a waste-sorting web app.",
+    "org": "Academic projects · ENSEA",
+    "ctx": "Three applications of machine learning and LLMs.",
+    "pts": [
+     "Credit scoring: default-risk prediction (good or bad borrower)",
+     "Conversational assistant on an existing LLM, with retrieval-augmented generation (RAG)",
+     "EcoSort-BOX: waste-sorting web app (Django, Docker)"
+    ],
+    "kf": [
+     [
+      "3",
+      "projects completed"
+     ]
+    ]
+   }
+  ],
+  "sk": [
+   {
+    "t": "Statistics & econometrics"
+   },
+   {
+    "t": "Data collection & BI"
+   },
+   {
+    "t": "Programming"
+   },
+   {
+    "t": "Design"
+   }
+  ],
+  "sx": [
+   {
+    "t": "Languages",
+    "k": [
+     "French, native",
+     "English, professional proficiency"
+    ]
+   },
+   {
+    "t": "MITx certificates (2026)"
+   }
+  ],
+  "ld": [
+   {
+    "t": "FCFA in revenue",
+    "d": "Generated by ENSEA Junior Services during my term as Director of Human Resources (2022-2023), in a junior enterprise of 200+ shareholders."
+   },
+   {
+    "t": "Students supported",
+    "d": "Deputy Director of the Solidarity Commission of the Division of Statistician Analysts (2022-2023): monitoring students' well-being."
+   },
+   {
+    "t": "Posters designed",
+    "d": "Redesign of EJS training and official-publication visuals, using Photoshop and Illustrator."
+   }
+  ],
+  "ph": [
+   {
+    "c": "In the field"
+   },
+   {
+    "c": "As a team"
+   },
+   {
+    "c": "Beyond the numbers"
+   }
+  ]
+ }
+}

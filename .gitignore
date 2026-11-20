@@ -1,0 +1,12 @@
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+# Éditeurs
+.vscode/
+.idea/
+# Brouillons de CV (contiennent le numéro de téléphone) : jamais publiés
+_cv-travail/
